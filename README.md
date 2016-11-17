@@ -1,7 +1,7 @@
 # CodeDay
 Something from CodeDay
 
-May 23, 2015
+	May 23, 2015
 	  
 	  Filters FaceBook and Twitter feeds into one GUI. Removes shared posts/irrelevant things and retweets.
 	  
